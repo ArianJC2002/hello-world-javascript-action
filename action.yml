@@ -1,6 +1,5 @@
 name: 'Hello World Action by ArianJC2002'
 description: 'Greet someone and record the time'
-description: Greet someone and record the time
 
 inputs:
   who-to-greet: # id of input
